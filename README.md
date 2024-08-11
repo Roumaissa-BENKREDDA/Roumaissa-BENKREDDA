@@ -82,7 +82,7 @@
 
 ### ✨ Fun Facts
 - 💡 I love to explore the intersection of AI and Robotics.
-- 🌎 I'm passionate about traveling and experiencing new cultures.
+- 🌎 I'm passionate about traveling, experiencing new cultures and learning new languages.
 - 🛠️ I enjoy programming and testing robotics projects in my free time.
 
 ---

@@ -77,5 +77,25 @@
 - 🛠️ I enjoy programming and testing robotics projects in my free time.
 
 ---
+###
 
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?logo=mathworks&style=social)&nbsp;&nbsp;
+![ROS](https://img.shields.io/badge/-ROS-black?logo=ros&style=social)&nbsp;&nbsp;
+![ROS 2](https://img.shields.io/badge/-ROS%202-black?logo=ros&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
+![Simulink](https://img.shields.io/badge/-Simulink-black?logo=mathworks&style=social)&nbsp;&nbsp;
+![Gazebo](https://img.shields.io/badge/-Gazebo-black?logo=gazebo&style=social)&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=social)&nbsp;&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?logo=unrealengine&style=social)&nbsp;&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?logo=jupyter&style=social)&nbsp;&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu&style=social)&nbsp;&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?logo=latex&style=social)&nbsp;&nbsp;
+![PDDL](https://img.shields.io/badge/-PDDL-black?logo=pddl&style=social)&nbsp;&nbsp;
+
+###
+---
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me if you share similar interests or would like to collaborate on a project.

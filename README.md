@@ -68,7 +68,7 @@
 <br clear="both">
 
 <!-- Snake animation placeholder -->
-![Snake animation](https://github.com/Roumaissa-BENKREDDA/snake.svg)
+![Snake animation](https://github.com/Roumaissa-BENKREDDA/Roumaissa-BENKREDDA/blob/main/snake.svg)
 
 ---
 

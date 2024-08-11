@@ -1,8 +1,7 @@
 
-
 ### 🌍 About Me
 - 🎓 **Education**: Master's student in Robotics Engineering at the University of Genoa.
-- 🛠️ **Skills**: Python, MATLAB, ROS, ROS 2, C++, Simulink, Gazebo, OpenCV, Unreal Engine, Jupyter, Visual Studio Code, Ubuntu, LaTeX, Arduino, Raspberry Pi, Virtual Box, Windows, Linux.
+- 🛠️ **Skills**: Python, MATLAB, ROS, ROS 2, C++, Simulink, Gazebo, OpenCV, Unreal Engine, Jupyter, Visual Studio Code, Ubuntu, LaTeX, PDDL.
 - 💼 **Professional Interests**: Human-Robot Interaction, Social Robotics, Virtual Reality, Autonomous Systems, AI Planning.
 - 🌱 **Currently Learning**: Social Robotics, Robotics Simulations, Machine Learning.
 

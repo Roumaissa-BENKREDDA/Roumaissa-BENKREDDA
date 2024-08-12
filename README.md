@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/roumaissa-b-098052255" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:romr8527@gmail.com" target="_blank">
